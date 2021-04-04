@@ -43,7 +43,9 @@ Elemen #intro h1 {...}
 Elemen #intro h1 {...} memiliki id maka penggunaan pada css dengan pagar (#) dan di dalam file index.html dalam pemanggilannya menggunakan id=" ". Elemen tersebut mengacu pada tampilan selector yang terdiri dari ID dan Class dimana ID selector ditandai dengan tanda pagar (#) di depannya.
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+
 Kode CSS internal diletakkan di dalam bagian <head> pada halaman. Class dan ID bisa digunakan untuk merujuk pada kode CSS, namun hanya akan aktif pada halaman tersebut (hanya 1 halaman). CSS internal diletakkan di dalam tag <style></style>.
+
 ![image](https://user-images.githubusercontent.com/81596251/113497972-d89cf300-9532-11eb-8358-2e6c1b1f115c.png)
 
 Dengan menambahkan CSS eksternal, perubahan apapun yang kita buat pada file CSS akan tampil pada website kita secara keseluruhan. File CSS eksternal biasanya diletakkan setelah bagian <head> pada halaman.
