@@ -49,7 +49,9 @@ Kode CSS internal diletakkan di dalam bagian <head> pada halaman. Class dan ID b
 ![image](https://user-images.githubusercontent.com/81596251/113497972-d89cf300-9532-11eb-8358-2e6c1b1f115c.png)
 
 Dengan menambahkan CSS eksternal, perubahan apapun yang kita buat pada file CSS akan tampil pada website kita secara keseluruhan. File CSS eksternal biasanya diletakkan setelah bagian <head> pada halaman.
+ 
 ![image](https://user-images.githubusercontent.com/81596251/113498042-8d371480-9533-11eb-87d8-fdbb4e309d4f.png)
+
 ![image](https://user-images.githubusercontent.com/81596251/113498051-acce3d00-9533-11eb-9679-854fc12bfeb1.png)
 
 Kode Inline CSS ditulis langsung pada atribut elemen HTML. Setiap elemen HTML memiliki atribut style, di situ lah inline CSS ditulis.
