@@ -60,7 +60,9 @@ Kode Inline CSS ditulis langsung pada atribut elemen HTML. Setiap elemen HTML me
 Jadi, deklarasi yang akan tampil pada browser adalah semua dari ketiga deklarasi tersebut jika penggunaan dan penginputan ketika melakukan coding benar sesuai dengan peruntukkannya dan tidak ada error pada browser.
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+Berikan penjelasan dan contohnya! 
+("p id="paragraf-1" class="text-paragraf")
+
 Contoh:
 ![image](https://user-images.githubusercontent.com/81596251/113498313-f455c880-9535-11eb-92e8-a860f6de44b0.png)
 
